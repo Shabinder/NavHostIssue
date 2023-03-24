@@ -1,14 +1,1 @@
-[
-  {
-    "source-id": "in.shabinder.spotify",
-    "source-version-name": "0.0.1",
-    "source-version-code": 100,
-    "link": "https://github.com/Shabinder/SpotiFlyer/releases/download/v3.6.3/SpotiFlyer-3.6.3.apk"
-  },
-  {
-    "source-id": "org.videolan.vlc",
-    "source-version-name": "0.0.1",
-    "source-version-code": 100,
-    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc"
-  }
-]
+[{"source-id":"in.shabinder.spotify","source-version-name":"0.0.1","source-version-code":100,"link":"https://github.com/Shabinder/SpotiFlyer/releases/download/v3.6.3/SpotiFlyer-3.6.3.apk"},{"source-id":"org.videolan.vlc","source-version-name":"0.0.1","source-version-code":100,"link":"https://play.google.com/store/apps/details?id=org.videolan.vlc"}]
